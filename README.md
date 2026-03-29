@@ -20,6 +20,6 @@ In this task, professional email writing skills were practiced. Two professional
 ## Task 5 – Cyber Crime Awareness Case Study
 The final task involved researching a cybercrime scenario and creating awareness about the threats associated with it. A case study on the scenario of phishing attacks was written, explaining what phishing is, how the perpetrators try to steal users’ information, the kind of users are targeted, and what the consequences are if users are not cautious. A Stay Safe Online checklist was also prepared, giving students advice on how to protect themselves from cyber threats like phishing, what kind of password habits are safe, and what precautions should be taken if the user has to make any online payments using UPI. Information on reporting cybercrime through the National Cyber Crime Portal and the helpline number 1930. 
 
-##Submitted By: 
+## Submitted By: 
 Afiya Begum 
 25BCE11165 
